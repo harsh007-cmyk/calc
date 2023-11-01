@@ -146,7 +146,7 @@ const Calc=()=>{
                 console.log(reversed,"hello");
                 
                 // console.log("helllllo");
-                    setCheck(true);
+                    setCheck(true); 
             }
             console.log(e.key,"ennene");
         }} className=" inpBox">
